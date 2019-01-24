@@ -1,8 +1,11 @@
-# python-course
+# python-meetup
+We meet in Conference Room F on a Wednesday at around 12:30pm (check Ron's calendar in case of occasional variation)
+The idea is that we can bring along a brown bag lunch and work together as a support group through the lunch break.
+There is a [slack channel](https://tna-digital.slack.com/messages/CADPHUVL0/details/) on TNA-Digital 
+
 Course documentation
 ## Steve's useful notes
 [Steve's Python notes](https://docs.google.com/document/d/1-FOjZpbreenBNncsaUG603jEtfBmAnylfTxQ8mvfSKY/edit#)
-
 
 
 ## Challenges
