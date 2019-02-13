@@ -13,3 +13,7 @@ Let's list any tasks we'd like to complete with Python. We could then work on re
 - Guy would like to extract a list of catalogue descriptions, given a list of document references
 - Given a container-type document reference (eg a Piece with multiple items, or a series), look up the images that comprise the digital download files, fetch them and write them to a directory structure for someone to browse.
 - Given a container type (such as a Catalogue Series), fetch all the descendent pieces, items etc and output to a document
+
+[see Google doc](https://drive.google.com/open?id=1gr5PmkXihTSa5wMReDFeF4T4qDlwa79c)
+
+
