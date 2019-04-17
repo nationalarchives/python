@@ -4,7 +4,8 @@ The idea was that we could bring along a brown bag lunch and work together as a 
 There is a [slack channel](https://tna-digital.slack.com/messages/CADPHUVL0/details/) on TNA-Digital.
 
 ## New schedule - no more Brown Bag Lunch
-It is potentially proposed to organise a monthly (on the Digital learning day) workshop. Suggest you speak to Steve Hirschorn about this.
+It is potentially proposed to organise a monthly (on the Digital learning day) workshop. 
+I suggest you speak to Steve Hirschorn about this.
 
 Course documentation
 ## Steve's useful notes
