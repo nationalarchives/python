@@ -1,7 +1,10 @@
 # python-meetup
-We meet in Conference Room F on a Wednesday at around 12:30pm (check Ron's calendar in case of occasional variation)
-The idea is that we can bring along a brown bag lunch and work together as a support group through the lunch break.
-There is a [slack channel](https://tna-digital.slack.com/messages/CADPHUVL0/details/) on TNA-Digital 
+We started out meeting in Conference Room F on a Wednesday at around 12:30pm (with occasional variation)
+The idea was that we could bring along a brown bag lunch and work together as a support group through the lunch break.
+There is a [slack channel](https://tna-digital.slack.com/messages/CADPHUVL0/details/) on TNA-Digital.
+
+## New schedule - no more Brown Bag Lunch
+It is potentially proposed to organise a monthly (on the Digital learning day) workshop. Suggest you speak to Steve Hirschorn about this.
 
 Course documentation
 ## Steve's useful notes
