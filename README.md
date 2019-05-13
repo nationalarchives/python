@@ -1,11 +1,9 @@
 # python-meetup
-We started out meeting in Conference Room F on a Wednesday at around 12:30pm (with occasional variation)
-The idea was that we could bring along a brown bag lunch and work together as a support group through the lunch break.
 There is a [slack channel](https://tna-digital.slack.com/messages/CADPHUVL0/details/) on TNA-Digital.
 
-## New schedule - no more Brown Bag Lunch
-It is potentially proposed to organise a monthly (on the Digital learning day) workshop. 
-I suggest you speak to Steve Hirschorn about this.
+## Schedule
+A monthly 2-hour workshop will be reserved on the learning days for people who want to get together and learn/practice python on company. See the learning day pages on Narnia for time and location. Additional meetings for people who want to work together on python based projects together will be organised as projects are developed - see Wiki and Issues for proposed projects and more information.
+For further information contact Steven Hirschorn, David Underdown or Faith Lawrence.
 
 Course documentation
 ## Steve's useful notes
