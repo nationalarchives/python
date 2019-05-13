@@ -1,14 +1,9 @@
 # python-meetup
-There is a [slack channel](https://tna-digital.slack.com/messages/CADPHUVL0/details/) on TNA-Digital.
+There is a [slack channel](https://tna-digital.slack.com/messages/CADPHUVL0/details/) on TNA-Digital. 
 
 ## Schedule
-A monthly 2-hour workshop will be reserved on the learning days for people who want to get together and learn/practice python on company. See the learning day pages on Narnia for time and location. Additional meetings for people who want to work together on python based projects together will be organised as projects are developed - see Wiki and Issues for proposed projects and more information.
+A monthly 2-hour workshop will be reserved on the learning days for people who want to get together and learn/practice python on company. See the learning day pages on Narnia for time and location. Additional meetings for people who want to work together on python based projects together will be organised as projects are developed - see [Wiki](https://github.com/nationalarchives/python/wiki) and [Issues](https://github.com/nationalarchives/python/issues) for proposed projects and more information.
 For further information contact Steven Hirschorn, David Underdown or Faith Lawrence.
-
-Course documentation
-## Steve's useful notes
-[Steve's Python notes](https://docs.google.com/document/d/1-FOjZpbreenBNncsaUG603jEtfBmAnylfTxQ8mvfSKY/edit#)
-
 
 ## Challenges
 Let's list any tasks we'd like to complete with Python. We could then work on real world useful things.
